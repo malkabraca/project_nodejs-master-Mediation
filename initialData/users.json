@@ -1,0 +1,23 @@
+[
+  {
+    "name": "מוישי שפר",
+    "phone": "0555574613",
+    "email": "m0555574613@gmail.com",
+    "password": "Aa123456!",
+    "isAdmin": true
+  },
+  {
+    "name":"יוסי שפר",
+    "phone": "0506343833",
+    "email": "h0502800840@gmail.com",
+    "password": "Aa123456!",
+    "isAdmin": true
+  },
+  {
+      "name":"מלכי גולדהבר",
+      "phone": "0502800840",
+      "email": "m0502800840@gmail.com",
+      "password": "Aa123456!",
+      "isAdmin": false
+  }
+]

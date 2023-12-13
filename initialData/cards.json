@@ -1,0 +1,38 @@
+[
+  {
+    "title": "בית 1",
+    "street":"הצנחנים",
+    "meter": "110",
+    "floor": "2",
+    "rooms": "4",
+    "description": "אודות הבית היפה",
+    "price":"700,000",
+    "category":"נכס",
+    "imageUrl":"https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "additionalPictures":["https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/534124/pexels-photo-534124.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load","https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600"]
+  },
+  {
+    "title": "בית 2",
+    "street":"גוש עציון",
+    "meter": "70",
+    "floor": "1",
+    "rooms": "2",
+    "description": "אודות הבית היפה",
+    "price":"500,000",
+    "category":"נכס",
+    "imageUrl":"https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "additionalPictures":["https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/534124/pexels-photo-534124.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load","https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600"]
+  },
+  {
+    "title": "בית 3",
+    "street":"ירושלים",
+    "meter": "240",
+    "floor": "2",
+    "rooms": "4",
+    "description": "אודות הבית היפה",
+    "price":"1,700,000",
+    "category":"נכס",
+    "imageUrl":"https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "additionalPictures":["https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","https://images.pexels.com/photos/534124/pexels-photo-534124.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load","https://images.pexels.com/photos/1974596/pexels-photo-1974596.jpeg?auto=compress&cs=tinysrgb&w=600","https://images.pexels.com/photos/1029599/pexels-photo-1029599.jpeg?auto=compress&cs=tinysrgb&w=600"]
+  }
+]
